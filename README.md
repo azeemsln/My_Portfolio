@@ -4,4 +4,4 @@ Visit my portfolio website here: [https://graceful-kitten-3e04c4.netlify.app](ht
 
 ---
 
-Feel free to explore abouts my skills, and get in touch!
+Feel free to explore about my skills, and get in touch!
