@@ -1,6 +1,6 @@
 # Portfolio Website
 
-Visit my portfolio website here: [https://azeemsln.netlify.app)
+Visit my portfolio website here: [https://azeemsln.netlify.app)]
 
 ---
 
