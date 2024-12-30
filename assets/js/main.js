@@ -217,14 +217,6 @@
       }
     })
   }
-
-  const btn=document.querySelector("button");
-  btn.addEventListener("click",()=>{
-    console.log("iochuhdui");
-    
-    
-  })
-
   window.addEventListener('load', navmenuScrollspy);
   document.addEventListener('scroll', navmenuScrollspy);
 
